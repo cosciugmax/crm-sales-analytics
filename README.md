@@ -1,5 +1,7 @@
 # CRM Sales Analytics Project
 
+![Dashboard Preview](image.png)
+
 ## Overview
 This project analyzes CRM data from an online education company to identify opportunities for improving sales performance, marketing efficiency, and conversion rates.
 
