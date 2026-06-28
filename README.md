@@ -1,5 +1,9 @@
 # CRM Sales Analytics Project
 
+## 🌐 Live Dashboard
+
+[Open Interactive Dashboard](https://cosciugmax.github.io/crm-sales-analytics/)
+
 ![Dashboard Preview](image.png)
 
 ## Overview
